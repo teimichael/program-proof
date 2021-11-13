@@ -1,0 +1,6 @@
+opam-version: "2.1.0"
+version: "1.0"
+maintainer: "bob@sponge.com"
+authors: ["TeiMichael"]
+homepage: "https://github.com/teimichael/program-proof"
+license: "MIT"

@@ -1,0 +1,3 @@
+(library
+ (name program_proof)
+ (libraries small_language))

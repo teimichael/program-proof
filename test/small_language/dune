@@ -1,0 +1,3 @@
+(test
+ (name small_language)
+ (libraries small_language))

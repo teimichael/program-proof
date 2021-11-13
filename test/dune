@@ -1,0 +1,3 @@
+(test
+ (name program_proof)
+ (libraries program_proof))
