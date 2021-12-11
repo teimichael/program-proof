@@ -1,0 +1,3 @@
+(test
+ (name typing_as_proving)
+ (libraries typing_as_proving))

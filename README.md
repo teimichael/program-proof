@@ -3,6 +3,7 @@ For studying program proving with OCaml implementations.
 
 # Contents
 - A small language
+- Typing as proving
 
 # Command
 ## Build
